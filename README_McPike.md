@@ -1,1 +1,1 @@
-
+My contribution to this project is notebooks/clean_text.ipynb. The dataframe therein contains a row for every string (space delimited) in the 2019 police log of a small town. The data comes from OCR of scanned PDFs, so there are many errors. The goal of my notebook is to find erroneous timestamps, and then replace them with an approximation. This notebook is unfinished. The next step is to modify the parameters of scikit-learn RANSAC regression. To be continued! 
